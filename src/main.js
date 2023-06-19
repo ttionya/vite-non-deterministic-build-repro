@@ -6,6 +6,8 @@ import { createPinia } from 'pinia'
 import App from './App.vue'
 import router from './router'
 
+import './init/register-dayjs'
+
 const app = createApp(App)
 
 app.use(createPinia())
