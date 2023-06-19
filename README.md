@@ -6,7 +6,7 @@ You can review the Git commit history to see the changes. The commit that caused
 
 ### Usage
 
-To reproduce the issue, you can execute the `npm build` command multiple times.
+To reproduce the issue, you can execute the `npm run build` command multiple times.
 
 Not every build will necessarily generate a different hash, but if you perform multiple builds, you may notice that the hash for the "vendor" file alternates between "44151d35" and "b28a2537". The **"output"** folder contains multiple packaged vendor files from different builds.
 
