@@ -1,4 +1,4 @@
-# vite-non-deterministic-build-test
+# vite-non-deterministic-build-repro
 
 This project is used to showcase the unpredictable nature of build artifacts in Vite.
 
