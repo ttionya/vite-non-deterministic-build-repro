@@ -2,7 +2,7 @@
 
 This project is used to showcase the unpredictable nature of build artifacts in Vite.
 
-You can review the Git commit history to see the changes. The commit that caused the unpredictable build artifacts is "feat: add dayjs with locale."
+You can review the Git commit history to see the changes. The commit that caused the unpredictable build artifacts is ["feat: add dayjs with locale"](https://github.com/ttionya/vite-non-deterministic-build-test/commit/9d84636aeb05ecbb8124e7d3e16107b1698354a4).
 
 ### Usage
 
