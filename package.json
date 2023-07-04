@@ -1,5 +1,5 @@
 {
-  "name": "vite-non-deterministic-build-test",
+  "name": "vite-non-deterministic-build-repro",
   "version": "0.0.0",
   "private": true,
   "scripts": {
