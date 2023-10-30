@@ -18,3 +18,9 @@ I have replicated the issue on multiple computers.
 ### Screenshots
 
 ![screenshots](/screenshots/screenshots.png)
+
+### Update 20231030
+
+According to [vitejs/vite#13672](https://github.com/vitejs/vite/issues/13672#issuecomment-1784110536), after adding the `build.commonjsOptions.strictRequires` option, the example in the current repository is now able to achieve deterministic builds.
+
+By running `npm run build:fixed`, the "vendor" file consistently gets the hash "a87a6588".
